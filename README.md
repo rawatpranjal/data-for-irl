@@ -8,7 +8,7 @@ A curated list of open datasets capturing agent movements through geographical s
 
 - **[Bus Engine Replacement Data](https://www.kaggle.com/datasets/erichschulman/bus1234.csv)**: Analyzed in John Rust's seminal 1987 paper, this dataset details the maintenance decisions of a bus company regarding engine replacements.
 
-## Real-World Agent Trajectories
+## Geographical Trajectories
 
 - **[GeoLife GPS Trajectory Dataset](https://www.microsoft.com/en-us/research/publication/geolife-gps-trajectory-dataset-user-guide/)**: Collected by Microsoft Research Asia, this dataset includes 17,621 trajectories from 182 users over three years, detailing movements such as walking, cycling, and driving.
 
@@ -18,7 +18,7 @@ A curated list of open datasets capturing agent movements through geographical s
 
 - **[SynMob: Synthetic GPS Trajectory Dataset](https://github.com/mitll/synmob)**: Offers high-fidelity synthetic GPS trajectories for urban mobility analysis, providing diverse trajectory patterns that cover entire urban areas.
 
-## Virtual Agent Movements
+## Virtual Movements
 
 - **[Bandai Namco Research Motion Dataset](https://github.com/BandaiNamcoResearchInc/Bandai-Namco-Research-Motiondataset)**: Offers motion capture data of game avatars, suitable for studying virtual agent movements.
 
