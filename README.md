@@ -1,6 +1,12 @@
 # Agent Motion Datasets
 
-A curated list of open datasets capturing agent movements through geographical spaces, suitable for inverse reinforcement learning projects.
+A curated list of open datasets capturing agent movements through geographical spaces and discrete choices, suitable for inverse reinforcement learning projects.
+
+## Discrete Choices
+
+- **[Career Decisions of Young Men](https://github.com/lindamaok899/student-project-lindamaok899)**: Utilized by Keane and Wolpin (1997), this dataset tracks the educational and occupational choices of young men over time, providing insights into career path decisions.
+
+- **[Bus Engine Replacement Data](https://www.kaggle.com/datasets/erichschulman/bus1234.csv)**: Analyzed in John Rust's seminal 1987 paper, this dataset details the maintenance decisions of a bus company regarding engine replacements.
 
 ## Real-World Agent Trajectories
 
