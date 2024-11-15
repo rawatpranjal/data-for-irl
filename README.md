@@ -2,7 +2,7 @@
 
 A curated list of open datasets capturing agent movements and choices through geographical spaces or economic decisions, suitable for inverse reinforcement learning projects.
 
-## Discrete Choices
+## Discrete Economic Choices
 
 - **[Career Decisions of Young Men](https://github.com/lindamaok899/student-project-lindamaok899)**: Utilized by Keane and Wolpin (1997), this dataset tracks the educational and occupational choices of young men over time, providing insights into career path decisions.
 
