@@ -1,6 +1,6 @@
-# Agent Motion Datasets
+# Sequential Choices Datasets
 
-A curated list of open datasets capturing agent movements through geographical spaces and discrete choices, suitable for inverse reinforcement learning projects.
+A curated list of open datasets capturing agent movements and choices through geographical spaces or economic decisions, suitable for inverse reinforcement learning projects.
 
 ## Discrete Choices
 
