@@ -10,7 +10,7 @@ A curated list of open datasets capturing agent movements and choices through ge
 
 ## Vehicle Trajectories
 
-- **[HighD Dataset](https://levelxdata.com/highd-dataset/)**: A detailed, high-precision vehicle trajectory dataset collected using drones over German highways. It includes information on vehicle positions, speeds, and maneuvers, making it ideal for traffic behavior analysis and automated driving research.
+- **[HighD Dataset](https://levelxdata.com/highd-dataset/)** and **[inD Dataset](https://levelxdata.com/ind-dataset/)**: HighD and inD datasets, collected using drones over German highways and intersections, respectively, provide high-precision vehicle trajectory data. HighD focuses on highway traffic with detailed information on vehicle positions, speeds, and maneuvers, while inD captures urban intersections, emphasizing pedestrian and cyclist interactions. These datasets are invaluable for traffic behavior analysis and autonomous driving research.
 
 - **[NGSIM Vehicle Trajectory Data (US-101)](https://www.kaggle.com/datasets/nigelwilliams/ngsim-vehicle-trajectory-data-us-101?select=trajectories-0750am-0805am.txt)**: Part of the NGSIM initiative, this dataset includes detailed vehicle trajectory data captured on the US-101 freeway in California. It is valuable for studying traffic flow, lane-changing behavior, and vehicle interactions.
 
@@ -18,7 +18,11 @@ A curated list of open datasets capturing agent movements and choices through ge
 
 - **[Round Dataset](https://levelxdata.com/round-dataset/)**: Collected using drones over roundabouts in Germany, this dataset focuses on vehicle trajectories in complex traffic situations, emphasizing interactions at roundabouts and supporting research on autonomous navigation.
 
-- **[NYC TLC Trip Record Data](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)**: This dataset includes trip records from New York City's Taxi and Limousine Commission (TLC), capturing millions of trips with details on pickup/drop-off locations, times, and fares. It is useful for analyzing urban transportation patterns and vehicle trajectory behavior in dense urban environments.
+- **[PishguVe Dataset](https://github.com/TeCSAR-UNCC/PishguVe)**: A detailed vehicle trajectory dataset from PishguVe, offering data on driving behaviors such as lane changes, acceleration, and braking in diverse traffic conditions. Useful for machine learning applications in autonomous driving systems.
+
+- **[T-Driver Dataset](https://www.kaggle.com/datasets/arashnic/tdriver)**: A rich dataset of GPS and vehicle trajectory data collected from taxi drivers. This dataset is designed to study driving styles, safety, and operational efficiency in urban areas.
+
+- **[COMPASS Connected Car Vehicle Trajectories and Behaviours Dataset](https://data.cdrc.ac.uk/dataset/compass-connected-car-vehicle-trajectories-and-behaviours)**: This dataset includes connected car trajectory data with detailed behavioral patterns, offering insights into vehicle interactions and driving behaviors in diverse scenarios.
 
 ## Geographical Trajectories
 
