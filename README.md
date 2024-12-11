@@ -1,4 +1,4 @@
-# Sequential Choices Datasets
+# Datasets for Inverse Reinforcement Learning / Dynamic Discrete Choice Models
 
 A curated list of open datasets capturing agent movements and choices through geographical spaces or economic decisions, suitable for inverse reinforcement learning projects.
 
