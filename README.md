@@ -8,14 +8,17 @@ A curated list of open datasets capturing agent movements and choices through ge
 
 - **[Bus Engine Replacement Data](https://www.kaggle.com/datasets/erichschulman/bus1234.csv)**: Analyzed in John Rust's seminal 1987 paper, this dataset details the maintenance decisions of a bus company regarding engine replacements.
 
-
-Here’s the updated section with **Vehicle Trajectories** added to your content:
-
 ## Vehicle Trajectories
 
 - **[HighD Dataset](https://levelxdata.com/highd-dataset/)**: A detailed, high-precision vehicle trajectory dataset collected using drones over German highways. It includes information on vehicle positions, speeds, and maneuvers, making it ideal for traffic behavior analysis and automated driving research.
 
 - **[NGSIM Vehicle Trajectory Data (US-101)](https://www.kaggle.com/datasets/nigelwilliams/ngsim-vehicle-trajectory-data-us-101?select=trajectories-0750am-0805am.txt)**: Part of the NGSIM initiative, this dataset includes detailed vehicle trajectory data captured on the US-101 freeway in California. It is valuable for studying traffic flow, lane-changing behavior, and vehicle interactions.
+
+- **[100-Driver Naturalistic Driving Dataset](https://100-driver.github.io/)**: A naturalistic driving dataset capturing real-world trajectories from 100 drivers. It provides detailed data on driving behavior, useful for studying driver attention, vehicle control, and safety interventions.
+
+- **[Round Dataset](https://levelxdata.com/round-dataset/)**: Collected using drones over roundabouts in Germany, this dataset focuses on vehicle trajectories in complex traffic situations, emphasizing interactions at roundabouts and supporting research on autonomous navigation.
+
+- **[NYC TLC Trip Record Data](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)**: This dataset includes trip records from New York City's Taxi and Limousine Commission (TLC), capturing millions of trips with details on pickup/drop-off locations, times, and fares. It is useful for analyzing urban transportation patterns and vehicle trajectory behavior in dense urban environments.
 
 ## Geographical Trajectories
 
