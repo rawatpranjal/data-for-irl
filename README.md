@@ -8,6 +8,15 @@ A curated list of open datasets capturing agent movements and choices through ge
 
 - **[Bus Engine Replacement Data](https://www.kaggle.com/datasets/erichschulman/bus1234.csv)**: Analyzed in John Rust's seminal 1987 paper, this dataset details the maintenance decisions of a bus company regarding engine replacements.
 
+
+Here’s the updated section with **Vehicle Trajectories** added to your content:
+
+## Vehicle Trajectories
+
+- **[HighD Dataset](https://levelxdata.com/highd-dataset/)**: A detailed, high-precision vehicle trajectory dataset collected using drones over German highways. It includes information on vehicle positions, speeds, and maneuvers, making it ideal for traffic behavior analysis and automated driving research.
+
+- **[NGSIM Vehicle Trajectory Data (US-101)](https://www.kaggle.com/datasets/nigelwilliams/ngsim-vehicle-trajectory-data-us-101?select=trajectories-0750am-0805am.txt)**: Part of the NGSIM initiative, this dataset includes detailed vehicle trajectory data captured on the US-101 freeway in California. It is valuable for studying traffic flow, lane-changing behavior, and vehicle interactions.
+
 ## Geographical Trajectories
 
 - **[GeoLife GPS Trajectory Dataset](https://www.microsoft.com/en-us/research/publication/geolife-gps-trajectory-dataset-user-guide/)**: Collected by Microsoft Research Asia, this dataset includes 17,621 trajectories from 182 users over three years, detailing movements such as walking, cycling, and driving.
