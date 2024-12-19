@@ -32,6 +32,8 @@ A curated list of open datasets capturing agent movements and choices through ge
 
 - **[Mobile Century Experiment GPS Trajectory Data](https://github.com/ucbtrans/mcdata)**: Contains 8 hours of GPS data from 100 vehicles on a 10-mile stretch of I-880 in California, collected during the Mobile Century experiment by UC Berkeley.
 
+- **[Taxi Trajectory Dataset](https://www.kaggle.com/datasets/crailtap/taxi-trajectory/data)**: Contains GPS trajectory data from taxi trips, providing insights into urban mobility patterns. This dataset is useful for research on route optimization, traffic prediction, and urban transportation planning.
+
 ## Human Trajectories
 
 - **[OpenTraj](https://github.com/crowdbotp/OpenTraj)**: A human trajectory prediction dataset benchmark that introduces existing datasets for human trajectory prediction tasks. It provides tools to load, visualize, and analyze datasets, supporting multiple datasets for comprehensive analysis.
