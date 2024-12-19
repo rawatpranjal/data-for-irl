@@ -7,6 +7,9 @@ A curated list of open datasets capturing agent movements and choices through ge
 - **[Career Decisions of Young Men](https://github.com/lindamaok899/student-project-lindamaok899)**: Utilized by Keane and Wolpin (1997), this dataset tracks the educational and occupational choices of young men over time, providing insights into career path decisions.
 
 - **[Bus Engine Replacement Data](https://www.kaggle.com/datasets/erichschulman/bus1234.csv)**: Analyzed in John Rust's seminal 1987 paper, this dataset details the maintenance decisions of a bus company regarding engine replacements.
+  
+- **[The Discrete Choice Data Bank](https://github.com/alvarogutyerrez/TheDiscreteChoiceDataBank?utm_source=chatgpt.com)**  
+  A curated collection of publicly available discrete choice datasets across various fields, including transport, health economics, and consumer behavior. This resource is invaluable for modeling dynamic decision-making processes.
 
 ## Vehicle Trajectories
 
@@ -23,6 +26,9 @@ A curated list of open datasets capturing agent movements and choices through ge
 - **[T-Driver Dataset](https://www.kaggle.com/datasets/arashnic/tdriver)**: A rich dataset of GPS and vehicle trajectory data collected from taxi drivers. This dataset is designed to study driving styles, safety, and operational efficiency in urban areas.
 
 - **[COMPASS Connected Car Vehicle Trajectories and Behaviours Dataset](https://data.cdrc.ac.uk/dataset/compass-connected-car-vehicle-trajectories-and-behaviours)**: This dataset includes connected car trajectory data with detailed behavioral patterns, offering insights into vehicle interactions and driving behaviors in diverse scenarios.
+
+- **[Ithaca365](https://ithaca365.mae.cornell.edu/c)**  
+  A comprehensive dataset collected along a 15 km route under diverse scenes (urban, highway, rural, campus), weather conditions (snow, rain, sun), times (day/night), and traffic conditions. It includes images and point clouds from cameras and LiDAR sensors, with high-precision GPS/INS data, supporting research on perception under challenging weather conditions.
 
 ## Geographical Trajectories
 
