@@ -30,15 +30,17 @@ A curated list of open datasets capturing agent movements and choices through ge
 - **[Ithaca365](https://ithaca365.mae.cornell.edu/c)**  
   A comprehensive dataset collected along a 15 km route under diverse scenes (urban, highway, rural, campus), weather conditions (snow, rain, sun), times (day/night), and traffic conditions. It includes images and point clouds from cameras and LiDAR sensors, with high-precision GPS/INS data, supporting research on perception under challenging weather conditions.
 
-## Geographical Trajectories
+- **[Mobile Century Experiment GPS Trajectory Data](https://github.com/ucbtrans/mcdata)**: Contains 8 hours of GPS data from 100 vehicles on a 10-mile stretch of I-880 in California, collected during the Mobile Century experiment by UC Berkeley.
+
+## Human Trajectories
+
+- **[OpenTraj](https://github.com/crowdbotp/OpenTraj)**: A human trajectory prediction dataset benchmark that introduces existing datasets for human trajectory prediction tasks. It provides tools to load, visualize, and analyze datasets, supporting multiple datasets for comprehensive analysis.
+
+- **[trajdata](https://github.com/NVlabs/trajdata)**: A unified interface to multiple human trajectory datasets, simplifying access and analysis across various sources. It provides a simple, uniform, and efficient representation and API for trajectory and map data, facilitating research in trajectory forecasting.
 
 - **[GeoLife GPS Trajectory Dataset](https://www.microsoft.com/en-us/research/publication/geolife-gps-trajectory-dataset-user-guide/)**: Collected by Microsoft Research Asia, this dataset includes 17,621 trajectories from 182 users over three years, detailing movements such as walking, cycling, and driving.
 
 - **[GPS Trajectories with Transportation Mode Labels](https://www.microsoft.com/en-us/research/publication/gps-trajectories-with-transportation-mode-labels/)**: This dataset provides GPS trajectories labeled with transportation modes like walking, biking, and driving, useful for analyzing movement patterns.
-
-- **[Mobile Century Experiment GPS Trajectory Data](https://github.com/ucbtrans/mcdata)**: Contains 8 hours of GPS data from 100 vehicles on a 10-mile stretch of I-880 in California, collected during the Mobile Century experiment by UC Berkeley.
-
-- **[SynMob: Synthetic GPS Trajectory Dataset](https://github.com/mitll/synmob)**: Offers high-fidelity synthetic GPS trajectories for urban mobility analysis, providing diverse trajectory patterns that cover entire urban areas.
 
 ## Virtual Movements
 
@@ -54,3 +56,6 @@ A curated list of open datasets capturing agent movements and choices through ge
 
 - **[Awesome Game Datasets](https://github.com/leomaurodesenv/game-datasets)**: A curated list of datasets related to game development, including player and avatar movement data.
 
+## Other
+
+- **[TrajAir](https://theairlab.org/trajair/)**: A general aviation trajectory dataset capturing aircraft operations around non-towered airports. It includes recorded trajectories of multiple aircraft along with corresponding weather conditions, useful for training, testing, and benchmarking algorithms related to trajectory prediction, including socially-aware models.
