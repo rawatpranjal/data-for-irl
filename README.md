@@ -1,4 +1,4 @@
-# Datasets for Inverse Reinforcement Learning / Dynamic Discrete Choice Models
+# Datasets for Inverse Reinforcement Learning
 
 A curated list of open datasets capturing agent movements and choices through geographical spaces or economic decisions, suitable for inverse reinforcement learning projects.
 
@@ -44,6 +44,18 @@ A curated list of open datasets capturing agent movements and choices through ge
 
 - **[GPS Trajectories with Transportation Mode Labels](https://www.microsoft.com/en-us/research/publication/gps-trajectories-with-transportation-mode-labels/)**: This dataset provides GPS trajectories labeled with transportation modes like walking, biking, and driving, useful for analyzing movement patterns.
 
+## Video Engagement Datasets
+
+- **[System1's Video Advertisement Dataset](https://www.nature.com/articles/s41598-024-76968-9)**: Over 30,000 video ads with 2.3 million emotional annotations across 8 categories. It includes 5-second video clips analyzed for viewer-reported emotional engagement, using sliding window techniques for fine-grained emotion classification. Useful for ad optimization and engagement analysis.
+
+- **[Snapchat UGC Short Video Dataset](https://arxiv.org/abs/2410.00289)**: Contains 90,000 short videos with multi-modal features (visual, audio, text). Engagement is measured with metrics like Normalized Average Watch Percentage (NAWP) and Engagement Continuation Rate (ECR). Ideal for predicting engagement in social media reels or stories.
+
+- **[Micro-video Engagement Dataset](https://fi.ee.tsinghua.edu.cn/~gaochen/papers/SIGIR2023.pdf)**: Large-scale dataset capturing user-video interactions with skip timestamps. Provides fine-grained analysis of skip vs. non-skip behaviors, making it valuable for short video platform analysis.
+
+- **[EEG-SVRec Dataset](https://arxiv.org/abs/2404.01008)**: Combines EEG signals with engagement labels, including 3,657 user interactions to study affective experiences during video recommendations. Particularly relevant for educational or tutorial video contexts.
+
+- **[Engagement Dataset for Online Meetings](https://arxiv.org/html/2404.04394v1)**: Features 24 long-form online meetings (~1.5 hours each), with facial recordings and physiological cues (cPPG). Enables analysis of participant engagement and group dynamics in long-form video settings.
+  
 ## Virtual Movements
 
 - **[AI4Animation](https://github.com/sebastianstarke/AI4Animation)**: A collection of motion datasets and tools for character animation, useful for analyzing avatar movements in virtual environments.
