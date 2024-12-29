@@ -34,6 +34,10 @@ A curated list of open datasets capturing agent movements and choices through ge
 
 - **[Taxi Trajectory Dataset](https://www.kaggle.com/datasets/crailtap/taxi-trajectory/data)**: Contains GPS trajectory data from taxi trips, providing insights into urban mobility patterns. This dataset is useful for research on route optimization, traffic prediction, and urban transportation planning.
 
+- **[Citi Bike NYC System Data](https://citibikenyc.com/system-data)**: This dataset offers historical trip data from the Citi Bike system in New York City, detailing trip durations, start and end times, station information, and rider types.
+
+- **[LaDe: Last-mile Delivery Dataset](https://wenhaomin.github.io/LaDe-website/)**: LaDe is a comprehensive last-mile delivery dataset from the industry, containing information on over 10 million packages, including package locations, time requirements, and courier task events.
+
 ## Human Trajectories
 
 - **[OpenTraj](https://github.com/crowdbotp/OpenTraj)**: A human trajectory prediction dataset benchmark that introduces existing datasets for human trajectory prediction tasks. It provides tools to load, visualize, and analyze datasets, supporting multiple datasets for comprehensive analysis.
@@ -42,7 +46,13 @@ A curated list of open datasets capturing agent movements and choices through ge
 
 - **[GeoLife GPS Trajectory Dataset](https://www.microsoft.com/en-us/research/publication/geolife-gps-trajectory-dataset-user-guide/)**: Collected by Microsoft Research Asia, this dataset includes 17,621 trajectories from 182 users over three years, detailing movements such as walking, cycling, and driving.
 
-- **[GPS Trajectories with Transportation Mode Labels](https://www.microsoft.com/en-us/research/publication/gps-trajectories-with-transportation-mode-labels/)**: This dataset provides GPS trajectories labeled with transportation modes like walking, biking, and driving, useful for analyzing movement patterns.
+- **[GPS Trajectories with Transportation Mode Labels](https://www.microsoft.com/en-us/research/publication/gps-trajectories-with-transportation-mode-labels/)**: This dataset provides GPS trajectories labeled with transportation modes like walking, biking, and driving, useful for analyzing movement patterns.- 
+
+## Check-in Data
+
+- **[Foursquare Check-in Datasets](https://sites.google.com/site/yangdingqi/home/foursquare-dataset)**: This collection includes various Foursquare check-in datasets, such as the NYC Restaurant Rich Dataset with check-ins, tips, and tags, and global-scale check-in data covering multiple cities. 
+
+- **[Yelp Open Dataset](https://www.yelp.com/dataset/)**: This dataset comprises over 8 million business reviews, photos, and user data from Yelp, useful for research in natural language processing, machine learning, and business analytics.
 
 ## Video Engagement Datasets
 
